@@ -1,0 +1,11 @@
+{
+  "short_name": "Confectionarium",
+  "name": "A website for a mock company called Confectionarium",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
